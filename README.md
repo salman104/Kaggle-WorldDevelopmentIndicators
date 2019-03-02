@@ -6,6 +6,4 @@ An exploration of various country development indicators. The World Development 
 
 ## Workflow
 
-To conduct this analysis, I familiarised myself with SQL as it involved working with data in a large database, and utilised various plotting packages to communicate my findings. 
-
-The underlying data set is sourced from Kaggle.
+Utilised SQL to query and extract information from the underlying data set (sourced from Kaggle) and communicated findings through data visualisations created with plotting packages such as matplotlib, seaborn and plotly in Python.
